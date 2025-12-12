@@ -1,0 +1,12 @@
+{
+  "name": "connectsphere",
+  "version": "1.0.0",
+  "description": "ConnectSphere - Full-Stack MERN Social Media Platform",
+  "author": "Eshika Mathur",
+  "license": "ISC",
+  "scripts": {
+    "start": "echo Please run 'npm run server' and 'npm run client' in two separate terminals.",
+    "server": "npm start --prefix Server",
+    "client": "npm start --prefix client"
+  }
+}
