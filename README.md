@@ -18,6 +18,16 @@ ConnectSphere is a full-featured, responsive social media web application built 
 
 ---
 
+## 📸 Application Preview
+
+### 🏠 Dynamic Home Feed & Interactive Timeline
+![ConnectSphere Home Feed](./screenshots/home_feed.png)
+
+### 👤 User Profile & Social Network View
+![ConnectSphere User Profile](./screenshots/profile_view.png)
+
+---
+
 ## Key Features
 
 - **User Authentication & Authorization**: Secure signup and login with hashed passwords via `bcrypt` and stateless session management with JSON Web Tokens (JWT).
