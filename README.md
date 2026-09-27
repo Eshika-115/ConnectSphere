@@ -125,8 +125,8 @@ ConnectSphere is a full-featured, responsive social media web application built 
 3. Verify or create `.env` file in `Server/.env`:
    ```env
    PORT = 4000
-   MONGO_DB = mongodb://127.0.0.1:27017/socialmedia
-   JWT_KEY = your_jwt_secret_key
+   MONGO_DB = mongodb+srv://eshikamathur01_db_user:r09ZJOIwvbm09HrM@cluster0.ngncqvg.mongodb.net/socialmedia?retryWrites=true&w=majority&appName=Cluster0
+   JWT_KEY = socialmediasecretkey2024
    ```
 4. Populate initial database with demo posts & test users:
    ```bash

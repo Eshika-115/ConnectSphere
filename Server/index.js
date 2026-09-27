@@ -1,4 +1,5 @@
 import express from 'express';
+// Connected to MongoDB Atlas
 import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import cors from 'cors';
